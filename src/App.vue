@@ -4,33 +4,20 @@ import { RouterLink, RouterView } from 'vue-router'
 </script>
 <template>
   <header class=" ">
-    <nav class=" ">
-      <div class="">
-      <RouterLink to="/"><img src="" class="" alt="Logo du site"></RouterLink>
-      <span class=" ">
-        <MenuIcon class=" text-white"></MenuIcon>
-      </span>
-      </div>
-      <ul class="" >
-        <li>
-          <RouterLink class=" " to="/">Home</RouterLink>
-        </li>
-        <li>
-          <RouterLink class=" " to="/Programmation">Programmation</RouterLink>
-        </li>
-        <li>
-          <RouterLink class=" " to="/Artistes">Artistes</RouterLink>
-        </li>
-        <li>
-          <RouterLink class=" " to="/Festival">Festival</RouterLink>
-        </li>
-        <li>
-          <RouterLink class=" " to="/Contact">Contact</RouterLink>
-        </li>
-      </ul>
-    </nav>
+    <div class="mt-10">
+      <router-link to="/ResumeView"
+        class=" ml-80 m-10 uppercase bg-transparent hover:bg-black text-black font-semibold hover:text-white py-2 px-4 border-2 border-black hover:border-transparent rounded">
+        Français
+      </router-link>
+
+
+      <router-link to="/ResumeViewEnglish"
+        class="m-10 uppercase bg-transparent hover:bg-black text-black font-semibold hover:text-white py-2 px-4 border-2 border-black hover:border-transparent rounded ">
+        Englsih
+      </router-link>
+    </div>
   </header>
-    <Router-View />
+  <Router-View />
 
 </template>
 
@@ -40,7 +27,7 @@ import { MenuIcon, } from "@heroicons/vue/solid";
 
 export default {
   name: "App",
-  components: { MenuIcon,},
+  components: { MenuIcon, },
 };
 
 </script>
