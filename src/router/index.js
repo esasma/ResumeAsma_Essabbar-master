@@ -1,16 +1,14 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import ProgrammationView from '../views/ProgrammationView.vue'
-import ArtistesView from '../views/ArtistesView.vue'
-import FestivalView from '../views/FestivalView.vue'
-import MentionslegalesView from '../views/MentionslegalesView.vue'
+import ResumeViewEnglish from '../views/ResumeViewEnglish.vue'
+import ResumeView from '../views/ReseumeView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
-    { path: '/Programmation', name: 'ProgrammationView', component: ProgrammationView },
-    { path: '/Artistes', name: 'ArtistesView', component: ArtistesView },
-    { path: '/Festival', name: 'FestivalView', component: FestivalView },
-    { path: '/Mentionslegales', name: 'MentionslegalesView', component: MentionslegalesView },
+    { path: '/ResumeViewEnglish', name: 'ResumeViewEnglish', component: ResumeViewEnglish },
+    { path: '/ResumeView', name: 'ResumeView', component: ResumeView },
+
+
 
   ]
 })
