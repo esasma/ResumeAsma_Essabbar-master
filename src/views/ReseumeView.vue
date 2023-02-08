@@ -20,8 +20,8 @@
           <div class="m-2 mt-6">
             <p class="text-sm font-light"> <span class="font-semibold"> Dynamique, sérieuse créative</span>
               et
-              <span class="font-semibold"> passionné </span> par le monde de l'informatique je serais
-              honoré d'intégrer votre entreprise et de vous montrer de quoi je suis capable.
+              <span class="font-semibold"> passionnée </span> par le monde de l'informatique je serais
+              honorée d'intégrer votre entreprise et de vous montrer de quoi je suis capable.
             </p>
           </div>
 
@@ -57,7 +57,7 @@
               <span class=" font-semibold"> Parcours développement</span>
             </p>
 
-            <h2 class=" font-bold text-base ml-5 mb-1 mt-11 "> Baccalauréat général </h2>
+            <h2 class=" font-bold text-base ml-5 mb-1 mt-11 "> Baccalauréat général mention bien</h2>
             <p class="text-sm ml-5 mr-4 "> <span class="font-bold text-gray-700 italic"> Lycée Germaine
                 Tillon, 25230 Montbéliard</span> </p>
 
@@ -86,20 +86,18 @@
                 Montbéliard,
                 25230</span>
               <br />
-              Site internet de reservation et payement en ligne pour un chaffeur
-              vtc.
+              Site internet de réservation et paiement en ligne pour un chauffeur vtc.
               <br /> <a class="font-bold text-gray-700" href="https://e-car-vtc.fr/">
                 https://e-car-vtc.fr/ </a> <br />
               <span class=" font-semibold"> 2 mois </span>
             </p>
 
 
-            <h2 class=" font-bold text-base ml-5 mb-1 mt-11"> Équipière polivalente & Formatrice</h2>
+            <h2 class=" font-bold text-base ml-5 mb-1 mt-11"> Équipière polyvalente & Formatrice</h2>
             <p class="text-sm ml-5 mr-4 "> <span class="font-bold text-gray-700 italic"> Macdonald's,
                 Audincourt, 25400</span>
               <br />
-              Prise de commande et préparation de commande. Accompagnement et aide des equipier en
-              formation. <br />
+              Prise de commande et préparation de commande. Accompagnement et aide des équipiers en formation. <br />
               <span class=" font-semibold"> Depuis avril 2022. </span>
             </p>
           </div>
@@ -111,14 +109,14 @@
         </div>
 
 
-        <h1 class="text-lg uppercase font-bold mb-8"> skills</h1>
+        <h1 class="text-lg uppercase font-bold mb-8"> skill</h1>
 
 
         <h2 class="mb-8 my-10 uppercase font-bold text-base "> Langage
           & Framework </h2>
         <p class="text-sm mb-8 font-semibold italic "> Grâce à mes études et à ma veille personnelle, j’ai pu
           prendre connaissance de nombreux outils et langages qui m'accompagnent dans mon quotidien. Comme
-          les langages HTML, CSS, PHP, SQL et javascript. Ainsi que certains framework comme Vue js, Chart js
+          les langages HTML, CSS, PHP, SQL et javascript. Ainsi que certains frameworks comme Vue js, Chart js
           et Tailwind CSS.
         </p>
         <div class="grid grid-cols-5 gap-2">
@@ -135,7 +133,7 @@
         </h2>
         <p class="text-sm mb-8 font-semibold italic "> Aussi, au cours de ma formation j'ai eu l'occasion de
           travailler avec des outils de
-          base de donné comme github,
+          base de données comme github,
           supabase ou encore firebase.</p>
         <div class="grid grid-cols-4 gap-4">
           <logosupabase />
@@ -150,8 +148,8 @@
           ma créativité
           en utilisant des
           outils comme
-          figma,
-          photoshop, Illustrator, Indesing, Blender.</p>
+          Figma,
+          Photoshop, Illustrator, Indesign, Blender.</p>
         <div class="grid grid-cols-5 gap-5">
           <logops />
           <logoillustrator />
