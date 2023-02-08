@@ -11,7 +11,7 @@
                 <div class="bg-neutral-900 text-white w-full h-[100rem] p-5 ">
                     <div class="m-2">
                         <h2 class="my-2 mb-3 uppercase font-bold text-lg"> Asma Es-sabbar </h2>
-                        <p class="font-semibold text-sm mb-6"> Student <br /> 19 ans <br /> Permis B</p>
+                        <p class="font-semibold text-sm mb-6"> Student <br /> 19 year old </p>
                         <p class="text-sm font-light"> Second year student in the B.U.T. Multimedia and Internet
                             in Montbéliard, I am currently looking for <span class="font-bold">
                                 an unpaid internship from March 27 to June 7, 2023. </span></p>
@@ -90,7 +90,7 @@
                             vtc.
                             <br /> <a class="font-bold text-gray-700" href="https://e-car-vtc.fr/">
                                 https://e-car-vtc.fr/ </a> <br />
-                            <span class=" font-semibold"> 2 mois </span>
+                            <span class=" font-semibold"> 2 month </span>
                         </p>
 
 
