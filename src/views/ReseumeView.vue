@@ -1,6 +1,6 @@
 <template>
   <div class="mx-80 my-14">
-    <div class="flex p-10 rounded-md drop-shadow-2xl">
+    <div class="bg-white flex w-full p-10 rounded-md drop-shadow-2xl">
 
       <div>
         <img class="w-auto h-auto " src="@/assets/img/Moi.jpg" alt="photo de asma ">
