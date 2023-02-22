@@ -3,7 +3,7 @@
         <div class="bg-white flex w-full p-10 rounded-md drop-shadow-2xl">
 
             <div>
-                <img class="w-auto h-auto " src="@/assets/img/Moi.jpg" alt="photo de asma ">
+                <img class="w-auto h-auto " src="../assets/img/ll.png" alt="photo de asma ">
 
 
 
@@ -173,7 +173,6 @@
             </div>
         </div>
     </div>
-
 </template>
 
 <script>
